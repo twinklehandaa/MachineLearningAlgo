@@ -1,5 +1,4 @@
-# sklearn-operations
-Understanding data operations using scikit-learn library in python.
+# Basics of Machine Learning
 
 ## 1. Data Preprocessing
 * Handling missing data, encoding categorical data, splitting the dataset into training and testing data, feature scaling
