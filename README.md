@@ -19,4 +19,5 @@
 ## 7. Naives Bayes
 ## 8. K-means Clustering
 ## 9. Hierarchial Clustering
-## 10. Backpropagation
+## 10. Principle Component Analysis (PCA)
+## 11. Backpropagation
