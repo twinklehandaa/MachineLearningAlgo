@@ -15,9 +15,11 @@
 ## 5. Decision Tree
 * It is used for both classification and regression tasks, it recursively splits data based on features to create a tree-like structure that predicts outcomes based on decision rules.
 
-## 6. KNN
-## 7. Naives Bayes
-## 8. K-means Clustering
-## 9. Hierarchial Clustering
-## 10. Principle Component Analysis (PCA)
-## 11. Backpropagation
+## 6. Random Forest
+## 7. KNN
+## 8. Naives Bayes
+## 9. K-means Clustering
+## 10. Hierarchial Clustering
+## 11. Principle Component Analysis (PCA)
+## 12. Backpropagation
+## 13. Performance Measure
