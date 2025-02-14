@@ -19,6 +19,8 @@
 * A random forest is a machine learning algorithm that combines the predictions of multiple decision trees to make more accurate predictions.   
 
 ## 7. KNN
+* KNN classifies data points based on the classes of their k-nearest neighbors in the feature space.
+  
 ## 8. Naives Bayes
 ## 9. K-means Clustering
 ## 10. Hierarchial Clustering
