@@ -16,6 +16,8 @@
 * It is used for both classification and regression tasks, it recursively splits data based on features to create a tree-like structure that predicts outcomes based on decision rules.
 
 ## 6. Random Forest
+* A random forest is a machine learning algorithm that combines the predictions of multiple decision trees to make more accurate predictions.   
+
 ## 7. KNN
 ## 8. Naives Bayes
 ## 9. K-means Clustering
