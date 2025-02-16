@@ -22,6 +22,8 @@
 * KNN classifies data points based on the classes of their k-nearest neighbors in the feature space.
   
 ## 8. Naives Bayes
+* Naive Bayes is a classification technique that predicts the probability of a class based on prior knowledge of conditions related to that class, assuming that the presence of a particular feature in a class is unrelated to the presence of any other feature.
+  
 ## 9. K-means Clustering
 ## 10. Hierarchial Clustering
 ## 11. Principle Component Analysis (PCA)
