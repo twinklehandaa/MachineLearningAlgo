@@ -25,6 +25,8 @@
 * Naive Bayes is a classification technique that predicts the probability of a class based on prior knowledge of conditions related to that class, assuming that the presence of a particular feature in a class is unrelated to the presence of any other feature.
   
 ## 9. K-means Clustering
+* K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
+
 ## 10. Hierarchial Clustering
 ## 11. Principle Component Analysis (PCA)
 ## 12. Backpropagation
