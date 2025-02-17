@@ -31,5 +31,7 @@
 * Hierarchical clustering builds a hierarchy of clusters by either merging similar clusters (agglomerative) or splitting existing clusters (divisive).
   
 ## 11. Principle Component Analysis (PCA)
+* PCA finds new, uncorrelated variables (principal components) that capture the maximum variance in the data, thus reducing dimensionality.
+  
 ## 12. Backpropagation
 ## 13. Performance Measure
