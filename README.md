@@ -37,3 +37,4 @@
 * Backpropagation is an algorithm that efficiently calculates the gradient of the loss function with respect to the weights of a neural network, enabling weight updates for learning.
   
 ## 13. Performance Measure
+* Performance measures quantify how well a machine learning algorithm achieves its objective on a given dataset.
