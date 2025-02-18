@@ -34,4 +34,6 @@
 * PCA finds new, uncorrelated variables (principal components) that capture the maximum variance in the data, thus reducing dimensionality.
   
 ## 12. Backpropagation
+* Backpropagation is an algorithm that efficiently calculates the gradient of the loss function with respect to the weights of a neural network, enabling weight updates for learning.
+  
 ## 13. Performance Measure
